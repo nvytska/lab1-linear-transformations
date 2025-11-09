@@ -51,5 +51,3 @@ Sources:
 [2] https://www.youtube.com/watch?v=kYB8IZa5AuE
 
 [3] https://robotacademy.net.au/lesson/describing-rotation-in-2d/
-
-[4]
